@@ -1,7 +1,7 @@
 # Predicting Boston Housing Prices
 ### Goal
 
-Used the `Grid Search` and  `k-fold cross-validation` method to train an optimal `Decision Tree Regressor` in order to predict the housing price in Boston.
+Use the `Grid Search` and  `k-fold cross-validation` method to train an optimal `Decision Tree Regressor` in order to predict the housing price in Boston.
 
 ### Data
 
